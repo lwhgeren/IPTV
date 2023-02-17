@@ -136,6 +136,11 @@ CCTV4K,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.js.chinamobile.com/PLTV/3
 明珠台,http://159.75.85.63:8765/telegram@feiyangdigital-mingzhu.m3u8 
 
 斗鱼频道,#genre#
+斗鱼轮播1,http://hlstct.douyucdn2.cn/dyliveflv3/9781567r8tB3F0Nl.m3u8?txSecret=737fa847bde4cf223ad23255ed9ccf0e&txTime=63ef41dc&token=h5-douyu-0-9781567-b2919ac7a31181fdd22a20845779c107&did=10000000000000000000000000001501&origin=tct&vhost=play3
+斗鱼轮播2,http://hlstct.douyucdn2.cn/dyliveflv1/36337rrojRwObcz5.m3u8?txSecret=23d66b1b3a81df75475cd864c4df52f7&txTime=63ef4401&token=h5-douyu-0-36337-5108d962c4a2297aa35a2257f0ebb381&did=10000000000000000000000000001501&origin=tct&vhost=play1
+斗鱼轮播3,http://hlstct.douyucdn2.cn/dyliveflv3/8157860rMNwyxTWF.m3u8?txSecret=fba1374bd83a8e120bc19ca4c8eb077a&txTime=63ef4492&token=h5-douyu-0-8157860-7a2778aa5e83e08e6b846e5400f4b8c3&did=10000000000000000000000000001501&origin=tct&vhost=play3
+斗鱼轮播4,http://hlstct.douyucdn2.cn/dyliveflv3/6027991rq3ZIY8zh.m3u8?txSecret=425e003d42691c7bc4c2f4b242e5a565&txTime=63ef44fd&token=h5-douyu-0-6027991-28d4c9a5694f4f27d9cd08437022753d&did=10000000000000000000000000001501&origin=tct&vhost=play3
+斗鱼轮播5,http://hlstct.douyucdn2.cn/dyliveflv1a/7528160rDOtpXHYr.m3u8?txSecret=9b2a502c5905e0d63fff7b4952bf59a8&txTime=63ef455d&token=h5-douyu-0-7528160-ec33b71654f9a17e95aa16604f0a0c1a&did=10000000000000000000000000001501&origin=tct&vhost=play2
 斗鱼电影1,http://epg.112114.xyz/douyu/3637778
 斗鱼电影2,http://epg.112114.xyz/douyu/3637726
 斗鱼电影3,http://epg.112114.xyz/douyu/8985415
